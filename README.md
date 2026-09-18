@@ -1,4 +1,4 @@
-# Modluar_Calculator
+# Modular_Calculator
 
 ## Description
 This program calculates using the operations of addition, multiplication, exponentiation and their respective inverses.
