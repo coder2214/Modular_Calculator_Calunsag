@@ -24,4 +24,8 @@ Enter the base for log. 10
 Author: Vince Matthew J. Calunsag
 Section: 8 - Molave
 ```
-
+```markdown
+  (•‿•)
+/(     )\
+  ^^  ^^
+```
