@@ -4,7 +4,7 @@
 This program calculates using the operations of addition, multiplication, exponentiation and their respective inverses.
 
 ## How to Run
-To open and run the program open the file "Modular_Calculator.py", and simply run the program.
+To open and run the program open the file and you will be redirected to VSCode where you can run the program.
 
 
 ## Input Needed
