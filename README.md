@@ -4,7 +4,7 @@
 This program calculates using the operations of addition, multiplication, exponentiation and their respective inverses.
 
 ## How to Run
-To open and run the program open the file and you will be redirected to VSCode where you can run the program.
+To open and run the program open the file and you will be redirected to VSCode where you can run the program, or if that doesn't work you could copy paste it into Google Colab.
 
 
 ## Input Needed
@@ -23,9 +23,9 @@ Enter the base for log. 10
 ```markdown
 Author: Vince Matthew J. Calunsag
 Section: 8 - Molave
+(I don't know where that art piece came from)
 ```
-```markdown
+
   (•‿•)
 /(     )\
   ^^  ^^
-```
