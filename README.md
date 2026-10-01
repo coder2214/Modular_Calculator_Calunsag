@@ -25,7 +25,7 @@ Author: Vince Matthew J. Calunsag
 Section: 8 - Molave
 (I don't know where that art piece came from)
 ```
-
+```
  (•‿•)
-/(//\\)\
+/(    )\
  ^^  ^^
