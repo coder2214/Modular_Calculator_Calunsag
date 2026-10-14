@@ -4,7 +4,7 @@
 This program calculates using the operations of addition, multiplication, exponentiation and their respective inverses.
 
 ## How to Run
-To open and run the program open the file and you will be redirected to VSCode where you can run the program, or if that doesn't work you could copy paste it into Google Colab.
+Sorry but you might need to open (https://colab.research.google.com/drive/1DGYJuHm3aFc9f9Zz7JyxLgxyR3ULyTkU?usp=sharing) instead cuz i got bored, and don't mind that .ipynb file.
 
 
 ## Input Needed
